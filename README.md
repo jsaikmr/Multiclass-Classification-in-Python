@@ -1,5 +1,8 @@
 # Multinomial-Logistic-Regression-in-Python
-Multinomial Logistic Regression in Python using two approaches
+Multinomial Logistic Regression in Python using two approaches for the below case study.
+
+1. Tranforming the Numerical features to Log form
+2. Binning the Numerical features to Categories
 
 Forest Cover Type:
 
