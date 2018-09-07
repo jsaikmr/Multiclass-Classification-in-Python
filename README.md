@@ -1,8 +1,9 @@
-# Multinomial-Logistic-Regression-in-Python
-Multinomial Logistic Regression in Python using two approaches for the below case study.
+# Multiclass-Classification-in-Python
+Multiclass Classification in Python using different approaches for the below case study.
 
-1. Tranforming the Numerical features to Log form
-2. Binning the Numerical features to Categories
+1. Tranforming the Numerical features to Log form with Multinomial Logistic Regression
+2. Binning the Numerical features to Categories with Multinomial Logistic Regression
+3. Tranforming the Numerical features to Log form with Random Forest Classifier
 
 Forest Cover Type:
 
